@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Pathway+Extreme:wght@100&display=swap');
+.footer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: #43ADE2;
+    height: 600px;
+    position: absolute;
+    width: 100%;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pathway Extreme', sans-serif; 
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+.logo1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.v{
+    text-align: left;
+    margin-top: 65px;
+}
+.contact,.social,.clock1{
+    margin-bottom: 40px;
+    text-align: left;
+    margin-top: 45px;
+}
+.contact,.social,.clock1{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.point{
+    width: 4px;
+    height: 4px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+}
+.minute-hand{
+    position: relative;
+
+}
+.minute-hand.hand{
+    width: 1px;
+    height: 5px;
+    color: black;
+    position: absolute;
+}
+.newsletter{
+    text-align: center;
+    margin-top: 20px;
+    margin-left:800px ;
+}
+.form-label{
+    text-align: left;
+}
+.input1{
+    margin-bottom: 10px;
+    width: 250px;
+    height: 38px;
+    border: none;
+    border-radius: 3px;
+}
+.input2{
+    width: 250px;
+    height: 38px;
+    border: none;
+    border-radius: 3px;
+}

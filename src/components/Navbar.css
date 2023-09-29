@@ -1,0 +1,23 @@
+@import url('https://fonts.cdnfonts.com/css/boowie');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Pathway+Extreme:wght@100&display=swap');
+
+.wbar{
+    justify-content:space-between;
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+}
+.logo{
+    border-radius: 50%;
+}
+.title{
+    font-family: 'BOOWIE', sans-serif;                                         
+    font-size: xx-large;
+    color: ghostwhite;
+    font-weight: bold;
+}
+.links{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pathway Extreme', sans-serif;
+    letter-spacing: 2px;
+   color:ghostwhite;
+}

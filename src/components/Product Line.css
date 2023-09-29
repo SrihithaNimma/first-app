@@ -1,0 +1,16 @@
+.card-body{
+    height: 300px;
+}
+.animation{
+    height: 200px;
+    width: 1000px;
+    background-color: aquamarine;
+    margin: 10px auto;
+}
+.animation1{
+    height:480px;
+    width: 1300px;
+    background-color: #a2d2ff;
+    margin-top: 0px;
+    margin: 10px auto;
+}

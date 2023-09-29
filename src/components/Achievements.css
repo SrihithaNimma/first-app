@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.card1{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    scroll-snap-align: start;
+    padding-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+}
+.card2{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    scroll-snap-align: start;
+}
+.card3{
+    margin: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    scroll-snap-align: start;
+}
+.card4{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    scroll-snap-align: start;
+}
+.card5{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    scroll-snap-align: start;
+}
+.card6{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    scroll-snap-align: start;
+}
+.card7{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    scroll-snap-align: start;
+}
+.cont{
+    scroll-snap-type:y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+}
+.card1,.card2,.card3,.card4,.card5,.card6,.card7{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pathway Extreme', sans-serif; 
+}
+.head1{
+    letter-spacing: 2px;
+    color: rgb(15, 54, 87);
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 0px;
+    width: 100%;
+    text-align: left;
+}
